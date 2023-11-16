@@ -1,0 +1,18 @@
+body{
+    width: 1300px;
+    height: 706px;
+    padding: 5px;
+    border: 1px solid black;
+    transition: background-color 1ms; 
+    
+
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.titulo1{
+    text-align: left;
+    margin-right: 2px;
+}
